@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cable</folder>
+	<filename>spa2.jpg</filename>
+	<path>C:\Users\Дмитрий\Desktop\Tutorial\models\research\object_detection\images\cable\spa2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1623</width>
+		<height>913</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>562</xmin>
+			<ymin>556</ymin>
+			<xmax>700</xmax>
+			<ymax>881</ymax>
+		</bndbox>
+	</object>
+</annotation>
