@@ -3,9 +3,10 @@
 
 Или в ручную:
 ```
-pip install opencv-python
-pip install imageai
 pip install tensorflow
+pip install opencv-python
+pip install keras
+pip install imageai
 ```
 ### Скачать предварительную модель [yolov3](https://github.com/OlafenwaMoses/ImageAI/releases/download/essential-v4/pretrained-yolov3.h5)
 Сохранить ее в корне проекта
