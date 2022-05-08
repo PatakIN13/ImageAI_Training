@@ -1,7 +1,17 @@
 ## Установка
-Для запуска нужно установить через: ``` pip install -r requirements.txt```  
+Клонируем репозиторий (возможно необходимо будет связать профиль на GitHub с PyCharm):
+![Git_URL](pic/Git_URL.png)
+![Get_VCS](pic/Get_VCS.png)
 
-Или в ручную:
+После загрузки устанавливаем интерпретатор:  
+![No_interpreter](pic/No_interpreter.png)
+![Ok](pic/Ok.png)
+
+Далее нужно активировать среду с помощью команды ```.\venv\Scripts\activate```:  
+![Terminal](pic/Terminal.png)
+![venv](pic/venv.png)
+
+Вводим по очереди в терминале для установки:
 ```
 pip install tensorflow
 pip install opencv-python
@@ -14,7 +24,7 @@ pip install imageai
 
 ## Работа
 ### 1:
-Фото и анотации необходимо сохранить в папке ```Data``` в следующем виде:   
+Фото и аннотации необходимо сохранить в папке ```Data``` в следующем виде:   
 ![Data](pic/Data.png)
 ### 2:
 Проверить что в ```object_names_array``` указанны все необходимые объекты:   
